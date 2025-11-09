@@ -1,9 +1,9 @@
 <div align="center">
+# Hi Everyone! 👋 I'm Kyungseok(Matthew) Lee.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&fontColor=d6ace6&animation=blink&height=300&section=header&text=I'm&nbsp;Matthew&fontSize=30)
 
-# Hi Everyone! 👋 I'm Kyungseok(Matthew) Lee.
-
+# I'm a dreamer of studying HCI & VR/AR/MR.
 I'm a **Mechanical Engineering** student at **Hanyang University** who loves to build things from scratch.
 
 By day, I'm an engineer-in-training, learning the principles of how the world works. By night, I'm a **CEO and Founder**, turning bold ideas into real-world businesses. I've led teams, built products from 0-to-1, and secured ₩55M in funding, all driven by a relentless 'Grit' and a passion for problem-solving.

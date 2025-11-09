@@ -1,6 +1,6 @@
 <div align="center">
     
-# 👋 Hi Everyone! 👋 I'm Kyungseok(Matthew) Lee. <br/> I'm a dreamer of studying HCI & VR/AR/MR.
+# 👋 Hi Everyone! 👋 I'm Kyungseok Lee. <br/> I'm a dreamer of studying HCI & VR/AR/MR.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&fontColor=d6ace6&animation=blink&height=300&section=header&text=I'm&nbsp;Matthew&fontSize=30)
 

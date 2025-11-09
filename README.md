@@ -14,7 +14,7 @@ My journey is now converging on a singular mission: to merge the physical (Mecha
 
 ## 📫Contact
 [![Gmail Badge](https://img.shields.io/badge/-bu5119@hanyang.ac.kr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bu5119@hanyang.ac.kr)](mailto:bu5119@hanyang.ac.kr)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/YOUR-LINK-HERE)](https://www.linkedin.com/in/YOUR-LINK-HERE)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/YOUR-LINK-HERE)](https://www.linkedin.com/in/voraleo/)
 
 <br>
 
@@ -24,9 +24,9 @@ My journey is now converging on a singular mission: to merge the physical (Mecha
 
 I thrive on bridging the entire creation process, from a rough idea to a physical, working prototype.
 
-* **Software:** `Python` `AI/ML` `Computer Vision` `Development`
+* **Software:** `Python` `AI/ML` `Computer Vision` `Webpage` `JavaScript` `React` `Development` 
 * **Hardware:** `Robotics (ROS2)` `Circuitry` `Hardware Prototyping`
-* **Fabrication:** `3D Printing` `CAD/CAM` `3D Modeling`
+* **Fabrication:** `3D Printing` `CATIA, SolidWorks, NX-UG etc 3D CAD` `3D Modeling` `SolidWorks CAM, NX-UG CAM, MasterCAM 3D CAM` `MCT` `CNC` 
 * **Interaction:** `HCI` `Virtual Reality (VR)`
 
 <br>
@@ -62,10 +62,10 @@ I thrive on bridging the entire creation process, from a rough idea to a physica
 
 * `📫` **How to reach me:**
     * `bu5119@hanyang.ac.kr`
-    * [LinkedIn Profile (링크 추가)]
+    * `https://www.linkedin.com/in/voraleo/`
 
 * `⚡` **Fun fact:**
-    * I'm fascinated by '이세계' (Isekai) and '초능력' (Superpowers). My ultimate goal is to build the technology that makes those sci-fi concepts a reality.
+    * I'm fascinated by 'Vitual Reality' and 'Superpower-Webtoon'. My ultimate goal is to build the technology that makes those sci-fi concepts a reality.
 
 <br>
 
@@ -74,13 +74,13 @@ I thrive on bridging the entire creation process, from a rough idea to a physica
 ## 🚀 Featured Projects (My "Grit" in Action)
 
 * **[🤖 Autonomous Vehicle (ROS2 Project)]**
-    * *[GitHub Repo Link Here]*
+    * *Comming Soon*
     * My current 'One Thing'. Building a fully functional autonomous car from H/W assembly to ROS2-based S/W implementation.
 
 * **[📈 STLAB (AI Music Valuation)]**
-    * *[GitHub Repo Link Here]*
+    * *private*
     * **Founder & CEO.** Developed an AI (LSTM) based music valuation model. Led the team to secure ₩55M in government funding.
 
 * **[🛰️ Abandoned Vehicle Detection (CV Project)]**
-    * *[GitHub Repo Link Here]*
+    * *https://github.com/wannahappyaroundme/satellite_vehicle_tracker*
     * A computer vision project utilizing satellite data and YOLO models to identify illegally parked vehicles.
